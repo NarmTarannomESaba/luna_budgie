@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/luna
+    username: luna
+    password: LunaMan
+  jpa:
+    show-sql: true
+    generate-ddl: true
